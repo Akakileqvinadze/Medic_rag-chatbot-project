@@ -1,0 +1,6 @@
+streamlit
+langchain==1.1.0
+pydantic<3.0.0,>=2.7.4
+faiss-cpu
+sentence-transformers
+PyPDF2
